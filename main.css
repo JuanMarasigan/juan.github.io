@@ -1,0 +1,259 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+h1{
+	font-family:Tahoma;
+	text-align:center;
+	color:white;
+	font-size:30px;
+}
+
+header, footer, nav, section, aside{
+	display:block;
+}
+
+p[name]{
+	font-family:Century Gothic;
+	text-align:center;
+	color:white;
+	font-size:35px;
+}
+p[b]{
+	font-family:Century Gothic;
+	text-align:center;
+	color:white;
+	font-size:12px;
+}
+
+body{
+	background-image:url("hy.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	text-align:center;
+	font-family: Century Gothic;
+	font-size: 12px;
+	color:black;
+}
+
+#bigWrapper{
+	width:1000px;
+	margin:20px auto;
+	text-align:left;
+}
+
+#topHeader{
+	background:url("hr.jpg");
+	font-size:20px;
+	padding:10px;
+	margin:5px;'
+}
+
+#topMenu{
+	color:white;
+	background:#3a3333;
+	font-size:15px;
+	font-family:century gothic;
+}
+
+#topMenu li{
+	display:inline-block;
+	padding:20px;
+	list-style:none;
+}
+
+#mainSection{
+	float:left;
+	width:660px;
+	margin:25px 0px;
+}
+
+#sideNews{
+}
+
+#theFooter{
+	clear:both;
+	text-align:center;
+	padding:20px;
+}
+#theFooter li{
+	display:inline-block;
+	padding:0px;
+	list-style:none;
+}
+
+
+#mommy{
+	display:-webkit-box;
+	-webkit-box-orient:vertical-center;
+	text-align:center;
+}
+
+#kid1{
+	background:#3abec0;
+	padding:10px;
+	width:270px;
+	height:300px;
+	margin-top:25px;
+}
+
+#ww{
+	font-family:Rockney;
+	font-size:25px;
+	text-align:center;
+}
+
+#anak1{
+	background:#ff2e12;
+	padding:10px;
+	width:270px;
+	height:400px;	
+	margin-left:60px;
+	margin-top:25px;	
+}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img.left{
+  display: block;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+ #pos{
+	text-align:center;
+	color:white;
+	font-size:16px;
+ }
+ 
+ #hed{
+	font-family:emblem;
+	font-size:28px;
+	text-align:center;
+	color:white;	
+}
+ #fol{
+	text-align:center;
+	color:white;
+	font-size:16px;
+ }
+ 
+
+#anak2{
+	background:#e87352;
+	padding:10px;
+	width:270px;
+	height:270px;	
+	margin-left:60px;
+	margin-top:25px;
+}
+
+#art1{
+	font-family:bebas neue;
+	font-size:55px;
+	color:white;
+	text-align:center;
+}
+
+#dy{
+	font-family:bebas neue;
+	font-size:130px;
+	color:white;
+	text-align:center;
+}
+
+#yr{
+	font-family:bebas neue;
+	font-size:20px;
+	color:white;
+	text-align:center;
+}
+
+#daddy{	
+	display:-webkit-box;
+	-webkit-box-orient:vertical-center;
+}
+
+#kid2{
+	background:#4ad486;
+	padding:10px;
+	width:270px;
+	height:70px;
+	margin-top:25px;
+	text-align:center;
+	font-family:social logos;
+	color:white;
+	font-size:70px
+}
+
+#kid3{
+	background:#00445b;
+	padding:10px;
+	width:270px;
+	height:70px;
+	margin-top:25px;
+	margin-left:60px;
+	font-family:social logos;
+	color:white;
+	font-size:50px
+	
+}
+
+#kid4{
+	background:#9a1616;
+	padding:10px;
+	width:270px;
+	height:70px;
+	margin-top:25px;
+	margin-left:60px;
+	text-align:center;
+	font-family:social logos;
+	color:white;
+	font-size:70px
+	
+}
+	
+#lola{
+	display:-webkit-box;
+	-webkit-box-orient:vertical-center;
+}
+	
+#kid5{
+	background:#39b54a;
+	padding:10px;
+	width:270px;
+	height:250px;
+	margin-top:3px;
+}
+
+#kid6{
+	background:#ffffff;
+	padding:10px;
+	width:270px;
+	height:80px;
+	margin-left:60px;
+}
+
+#nf{
+	text-align:left;
+	color:gray;
+	font-size:10px;
+}
+
+#kid7{
+	background:#eb2f2f;
+	padding:10px;
+	width:270px;
+	height:200px;
+	margin-top:3px;
+	margin-left:60px;
+}
+#yt{
+	text-align:left;
+	color:white;	
+}
